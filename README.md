@@ -21,7 +21,10 @@ La Super Telmi est accessible à tous :
 ## Contribuer
 
 La Super-Telmi à pour vocation d'être en constante amélioration grâce aux idées des parents et enfants. Il est possible d'apporter votre contribution en [rejoignant le Discord de la communauté Telmi](https://discord.gg/ZTA5FyERbg).
+
+
 ---
+
 
 # Super Telmi, the super machine for Telmi
 
@@ -40,9 +43,8 @@ Super Telmi combines these innovations with real-life feedback from children, fo
 Super Telmi is accessible to everyone:
 
 * Do it yourself: plans and manuals [are available here](./diy/).
-
 * Buy it ready-made: [available in this Etsy shop](https://www.etsy.com/fr/shop/heuzef).
 
 ## Contribute
 
-Super-Telmi aims to be constantly improved thanks to the ideas of parents and children. You can contribute [by joining the Telmi community Discord](https://discord.gg/ZTA5FyERbg).
+Super Telmi aims to be constantly improved thanks to the ideas of parents and children. You can contribute [by joining the Telmi community Discord](https://discord.gg/ZTA5FyERbg).
