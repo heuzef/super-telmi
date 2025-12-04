@@ -2,6 +2,9 @@
 
 ![Logo Super Telmi](./logo-super-telmi.svg)
 
+[![Super Telmi](https://img.youtube.com/vi/lRGE3fMTku0/0.jpg)](https://www.youtube.com/watch?v=lRGE3fMTku0)
+
+
 ## Qu’est-ce que la Super Telmi ?
 
 La Super Telmi est une boîte à histoires Open-Source conçue pour émerveiller les enfants, basée sur le système libre [Telmi](https://telmi.fr).
