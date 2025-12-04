@@ -2,9 +2,6 @@
 
 ![Logo Super Telmi](./logo-super-telmi.svg)
 
-[![Super Telmi](https://img.youtube.com/vi/lRGE3fMTku0/0.jpg)](https://www.youtube.com/watch?v=lRGE3fMTku0)
-
-
 ## Qu’est-ce que la Super Telmi ?
 
 La Super Telmi est une boîte à histoires Open-Source conçue pour émerveiller les enfants, basée sur le système libre [Telmi](https://telmi.fr).
@@ -15,12 +12,14 @@ Des parents passionnés ont imaginé et testé des améliorations pour offrir le
 
 La Super Telmi rassemble ces innovations et les retours d’expérience concrets des enfants, pour une expérience toujours plus enrichissante.
 
+[![Super Telmi](https://img.youtube.com/vi/lRGE3fMTku0/0.jpg)](https://www.youtube.com/watch?v=lRGE3fMTku0)
+
 ## Comment se la procurer ?
 
 La Super Telmi est accessible à tous :
 
 * Fabriquez-la vous-même : les plans et manuels de fabrication [sont disponibles ici](./diy/).
-* Achetez-la prête à l’emploi : [disponible sur cette boutique ETSY](https://www.etsy.com/fr/shop/heuzef).
+* Achetez-la prête à l’emploi : (PROCHAINEMENT)
 
 
 ## Contribuer
