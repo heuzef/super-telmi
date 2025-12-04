@@ -12,14 +12,14 @@ Des parents passionnés ont imaginé et testé des améliorations pour offrir le
 
 La Super Telmi rassemble ces innovations et les retours d’expérience concrets des enfants, pour une expérience toujours plus enrichissante.
 
-[![Super Telmi](https://img.youtube.com/vi/lRGE3fMTku0/0.jpg)](https://www.youtube.com/watch?v=lRGE3fMTku0)
+🎬 [Voir la vidéo de présentation de la Super Telmi](https://www.youtube.com/watch?v=lRGE3fMTku0)
 
 ## Comment se la procurer ?
 
 La Super Telmi est accessible à tous :
 
 * Fabriquez-la vous-même : les plans et manuels de fabrication [sont disponibles ici](./diy/).
-* Achetez-la prête à l’emploi : (PROCHAINEMENT)
+* Achetez-la prête à l’emploi : **(PROCHAINEMENT)**
 
 
 ## Contribuer
