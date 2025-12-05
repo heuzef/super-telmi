@@ -18,7 +18,7 @@ La Super Telmi rassemble ces innovations et les retours d’expérience concrets
 
 La Super Telmi est accessible à tous :
 
-* Fabriquez-la vous-même : les plans et manuels de fabrication [sont disponibles ici](./diy/).
+* Fabriquez-la vous-même : les plans et manuels de fabrication [sont disponibles ici](./diy/DIY_FR.md).
 * Achetez-la prête à l’emploi : **(PROCHAINEMENT)**
 
 
@@ -46,7 +46,7 @@ Super Telmi combines these innovations with real-life feedback from children, fo
 
 Super Telmi is accessible to everyone:
 
-* Do it yourself: plans and manuals [are available here](./diy/).
+* Do it yourself: plans and manuals [are available here](./diy/DIY_EN.md).
 * Buy it ready-made: [available in this Etsy shop](https://www.etsy.com/fr/shop/heuzef).
 
 ## Contribute
