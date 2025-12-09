@@ -72,7 +72,21 @@ Il est temps de retirer le Haut-Parleur, situé en bas à droite, ce petit compo
 
 ![](assets/miyoo_hp_01.png)
 
-En cours de rédaction ...
+Maintenant que tous les composants sont disponibles, vous pouvez retirer la coque arrière avec les gâchettes et le haut-parleur d’origine : ils sont inutiles.
+Repérez bien l’emplacement des surfaces de contact sur la carte mère pour le haut-parleur.
+Effectuez la soudure des câbles sur le haut-parleur. N’hésitez pas à faire un test audio en allumant la carte mère tout en maintenant une pression sur les surfaces de contact.
+Pas d’inquiétude, la tension du périphérique est très faible, vous ne risquez pas grand-chose.
+La polarité des connexions du haut-parleur n’a pas d’importance ici.
+Si c’est concluant, enfilez les câbles dans le trou du boîtier de la Super Telmi, prévu à cet effet.
+Enfin, enfilez les parties dénudées dans le connecteur pin mâle, sur les deux pins les plus à l’extérieur.
+Vous allez pouvoir positionner délicatement la carte mère dans le boîtier.
+Posez le tout à plat sur un tissu pour faciliter le montage. Commencez par le connecteur pin mâle, puis glissez le câble sur le bord de la Miyoo. Vous pouvez déposer quelques gouttes de colle chaude pour stabiliser le placement du câblage petit à petit, jusqu’au haut-parleur.
+Une fois satisfait du montage du haut-parleur, remontez tranquillement tous les petits composants. Soyez délicat, cela demande de la patience. Il est également recommandé de déposer une petite goutte de colle chaude pour aider à stabiliser le bouton central, car celui-ci n’est pas très stable autrement.
+Tout est en place ? Positionnez la face arrière, maintenez-la, puis retournez la machine doucement.
+Ici, vous allez pouvoir réutiliser les vis d’origine pour procéder au serrage. Serrez en croix.
+Testez tout ! Vous devriez avoir une Super Telmi prête à l’usage.
+Amusez-vous à personnaliser l’emplacement à l’arrière si vous le souhaitez, puis passez à la fabrication de la station d’accueil.
+
 
 ## Montage de la Super-Telmi
 
