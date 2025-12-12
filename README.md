@@ -47,7 +47,7 @@ Super Telmi combines these innovations with real-life feedback from children, fo
 Super Telmi is accessible to everyone:
 
 * Do it yourself: plans and manuals [are available here](./diy/DIY_EN.md).
-* Buy it ready-made: [available in this Etsy shop](https://www.etsy.com/fr/shop/heuzef).
+* Buy it ready-made: **(SOON)**
 
 ## Contribute
 
