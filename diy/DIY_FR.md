@@ -1,4 +1,4 @@
-Bienvenue dans le guide de fabrication de la Super-Telmi, vous vous apprêtez à offrir à vos enfants ce qui existe de mieux en matière de boîte à histoire, non seulement par l'amour que vous mettrez à lui concevoir ce beau cadeau, mais aussi par la très forte résilience qui vous est offerte ici sur la partie matériel, ainsi que le potentiel illimité offert par Telmi.
+Bienvenue dans le guide de fabrication de la Super-Telmi, vous vous apprêtez à offrir à vos enfants ce qui existe de mieux en matière de boîte à histoire, non seulement par l'amour que vous mettrez à lui concevoir ce beau cadeau, mais aussi par la très forte résilience qui vous est offerte ici sur le matériel, ainsi que le potentiel illimité offert par Telmi.
 
 # Matériel requis
 
@@ -73,24 +73,51 @@ Il est temps de retirer le Haut-Parleur, situé en bas à droite, ce petit compo
 ![](assets/miyoo_hp_01.png)
 
 Maintenant que tous les composants sont disponibles, vous pouvez retirer la coque arrière avec les gâchettes et le haut-parleur d’origine : ils sont inutiles.
-Repérez bien l’emplacement des surfaces de contact sur la carte mère pour le haut-parleur.
-Effectuez la soudure des câbles sur le haut-parleur. N’hésitez pas à faire un test audio en allumant la carte mère tout en maintenant une pression sur les surfaces de contact.
-Pas d’inquiétude, la tension du périphérique est très faible, vous ne risquez pas grand-chose.
-La polarité des connexions du haut-parleur n’a pas d’importance ici.
-Si c’est concluant, enfilez les câbles dans le trou du boîtier de la Super Telmi, prévu à cet effet.
-Enfin, enfilez les parties dénudées dans le connecteur pin mâle, sur les deux pins les plus à l’extérieur.
-Vous allez pouvoir positionner délicatement la carte mère dans le boîtier.
-Posez le tout à plat sur un tissu pour faciliter le montage. Commencez par le connecteur pin mâle, puis glissez le câble sur le bord de la Miyoo. Vous pouvez déposer quelques gouttes de colle chaude pour stabiliser le placement du câblage petit à petit, jusqu’au haut-parleur.
-Une fois satisfait du montage du haut-parleur, remontez tranquillement tous les petits composants. Soyez délicat, cela demande de la patience. Il est également recommandé de déposer une petite goutte de colle chaude pour aider à stabiliser le bouton central, car celui-ci n’est pas très stable autrement.
-Tout est en place ? Positionnez la face arrière, maintenez-la, puis retournez la machine doucement.
-Ici, vous allez pouvoir réutiliser les vis d’origine pour procéder au serrage. Serrez en croix.
-Testez tout ! Vous devriez avoir une Super Telmi prête à l’usage.
-Amusez-vous à personnaliser l’emplacement à l’arrière si vous le souhaitez, puis passez à la fabrication de la station d’accueil.
 
+![](assets/nopreview.png)
+
+Repérez bien l’emplacement des surfaces de contact sur la carte mère pour le haut-parleur.
+
+![](assets/nopreview.png)
+
+Effectuez la soudure des câbles sur le haut-parleur. N’hésitez pas à faire un test audio en allumant la carte mère tout en maintenant une pression sur les surfaces de contact. Pas d’inquiétude, la tension du périphérique est très faible, vous ne risquez rien.
+
+> La polarité des connexions du haut-parleur n’a pas d’importance ici.
+
+![](assets/nopreview.png)
+
+Si cela est concluant, enfilez les câbles dans le trou du boîtier de la Super Telmi, prévu à cet effet.
+
+![](assets/nopreview.png)
+
+Enfin, enfilez les parties dénudées dans le connecteur pin mâle, sur les deux pins aux extrémités.
+
+![](assets/nopreview.png)
 
 ## Montage de la Super-Telmi
 
-En cours de rédaction ...
+Le haut-parleur est prêt, vous allez pouvoir positionner délicatement la carte mère dans le boîtier.
+Posez le tout à plat sur un tissu pour faciliter le montage. Commencez par le connecteur pin mâle, puis glissez le câble sur le bord de la Miyoo. 
+
+![](assets/nopreview.png)
+
+Vous pouvez déposer quelques gouttes de colle chaude pour stabiliser le placement du câblage petit à petit, jusqu’au haut-parleur.
+
+![](assets/nopreview.png)
+
+Une fois satisfait du montage du haut-parleur, remontez tranquillement tous les petits composants. Soyez délicat, cela demande de la patience. Il est également recommandé de déposer une petite goutte de colle chaude pour aider à stabiliser le bouton central, car celui-ci n’est pas très stable autrement.
+
+![](assets/nopreview.png)
+
+Tout est en place ? Positionnez la face arrière, maintenez-la, puis retournez la machine doucement.
+Vous allez pouvoir réutiliser les vis d’origine pour procéder au serrage. Serrez en croix.
+Testez tout ! Vous devriez avoir une Super Telmi prête à l’usage.
+
+![](assets/nopreview.png)
+
+Amusez-vous à personnaliser l’emplacement à l’arrière si vous le souhaitez, puis passez à la fabrication de la station d’accueil.
+
+![](assets/nopreview.png)
 
 ## Fabrication de la station d'accueil
 
