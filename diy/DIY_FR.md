@@ -1,4 +1,4 @@
-Bienvenue dans le guide de fabrication de la Super-Telmi, vous vous apprêtez à offrir à vos enfants ce qui existe de mieux en matière de boîte à histoire, non seulement par l'amour que vous mettrez à lui concevoir ce beau cadeau, mais aussi par la très forte résilience qui vous est offerte ici sur le matériel, ainsi que le potentiel illimité offert par Telmi.
+Bienvenue dans le guide de fabrication de la Super Telmi, vous vous apprêtez à offrir à vos enfants ce qui existe de mieux en matière de boîte à histoire, non seulement par l'amour que vous mettrez à lui concevoir ce beau cadeau, mais aussi par la très forte résilience qui vous est offerte ici sur le matériel, ainsi que le potentiel illimité offert par Telmi.
 
 # Matériel requis
 
@@ -28,7 +28,7 @@ Vos retours d'expériences sont précieux pour permettre l'amélioration continu
 
 ![](assets/super_telmi_case_3d.gif)
 
-Les fichiers 3D sont disponibles [ICI](../files/) et doivent être imprimés avec du TPU. 
+Les fichiers 3D sont disponibles [ICI](../files/) et doivent être imprimés avec du TPU pour l'absorption des chocs. 
 
 Pour la coque principal, il est recommandé d'avoir un remplissage d'au moins 25% à 30% pour s'assurer que la Super Telmi soit la plus résistante possible au chocs, chutes, crise de colère ou tout utilisation abusive détournée pour violenter la fraterie.
 
@@ -94,7 +94,7 @@ Enfin, enfilez les parties dénudées dans le connecteur pin mâle, sur les deux
 
 ![](assets/nopreview.png)
 
-## Montage de la Super-Telmi
+## Montage de la Super Telmi
 
 Le haut-parleur est prêt, vous allez pouvoir positionner délicatement la carte mère dans le boîtier.
 Posez le tout à plat sur un tissu pour faciliter le montage. Commencez par le connecteur pin mâle, puis glissez le câble sur le bord de la Miyoo. 
@@ -135,7 +135,7 @@ Ce dernier en place, insérer un petit collier de serrage autour que vous pouvez
 
 ![](assets/nopreview.png)
 
-Une fois la position idéale bien mesurée avec la Super-Telmi, serez fermement le collier de serrage pour maintenir la position du câble et son embout aimanté définitivement en place.
+Une fois la position idéale bien mesurée avec la Super Telmi, serez fermement le collier de serrage pour maintenir la position du câble et son embout aimanté définitivement en place.
 
 ![](assets/nopreview.png)
 
@@ -143,4 +143,4 @@ Coupez l'excédent du collier avec une pince coupante, puis glissez le câble US
 
 ![](assets/nopreview.png)
 
-Félicitations, vous avez terminé la Super-Telmi. Il ne reste plus qu'à emballer pour offrir 🎁
+Félicitations, vous avez terminé la Super Telmi. Il ne reste plus qu'à emballer pour offrir 🎁
