@@ -24,7 +24,7 @@ La Super Telmi est accessible à tous :
 
 ## Contribuer
 
-La Super-Telmi à pour vocation d'être en constante amélioration grâce aux idées des parents et enfants. 
+La Super Telmi à pour vocation d'être en constante amélioration grâce aux idées des parents et enfants. 
 Il est possible d'apporter votre contribution en [rejoignant le Discord de la communauté Telmi](https://discord.gg/ZTA5FyERbg).
 
 
