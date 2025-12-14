@@ -127,11 +127,11 @@ Une fois votre station imprimé et nettoyée. Vous pouvez appliquer une goutte (
 
 ![](assets/nopreview.png)
 
-À présent, insérer un boulon M3 de XXmm depuis l'arrière de la station dans le trou prévu à cet effet. 
+À présent, insérer un boulon M3 depuis l'arrière de la station dans le trou prévu à cet effet. 
 
 ![](assets/nopreview.png)
 
-Ce dernier en place, insérer un petit collier de serrage autour que vous pouvez pré-fermer, en laissant juste assez ouvert pour passer la tête du câble USB-C et embout aimant.
+Ce dernier en place, insérer un petit collier de serrage autour que vous pouvez pré-fermer, en laissant juste assez ouvert pour passer la tête du câble USB-C et l'embout aimanté.
 
 ![](assets/nopreview.png)
 
@@ -139,7 +139,7 @@ Une fois la position idéale bien mesurée avec la Super Telmi, serez fermement 
 
 ![](assets/nopreview.png)
 
-Coupez l'excédent du collier avec une pince coupante, puis glissez le câble USB le lobg de la fente prévu à cet effet.
+Coupez l'excédent du collier avec une pince coupante, puis glissez le câble USB le long de la fente prévu à cet effet.
 
 ![](assets/nopreview.png)
 
