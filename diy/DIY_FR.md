@@ -107,13 +107,18 @@ Une bonne astuce est d'utiliser du ruban de masquage pour stabiliser tous les co
 
 Tout est en place ? Positionnez la face arrière, maintenez-la, puis retournez la machine doucement.
 Vous allez pouvoir réutiliser les vis d’origine pour procéder au serrage. Serrez en croix.
+
+Enfin, fixez la façade pour le haut-parleur.
+
+![](assets/miyoo_hp_06.png)
+
 Testez tout ! Vous devriez avoir une Super Telmi prête à l'usage à ce stade.
 
-![](assets/nopreview.png)
+![](assets/super_telmi_01.png)
 
-Amusez-vous à personnaliser l’emplacement à l’arrière si vous le souhaitez, par exemple le prénom de l'enfant, vos coordonées en cas de perte de l'appareil, etc ...
+Amusez-vous à personnaliser l’emplacement à l’arrière si vous le souhaitez, par exemple le prénom de l'enfant, vos coordonées en cas de perte de l'appareil, etc ... Il est possible d'éditer le texte directement dans votre Slicer favoris grâce au fichier 3MF.
 
-![](assets/nopreview.png)
+![](assets/super_telmi_label.png)
 
 ## Fabrication de la station d'accueil
 
