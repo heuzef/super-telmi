@@ -1,4 +1,4 @@
-<!-- This guide exists in two languages. Any change made here must be mirrored in DIY_FR.md. -->
+<!-- This guide exists in several languages. Any change made here must be mirrored in DIY_FR.md and DIY_ZH.md. -->
 
 Welcome to the Super Telmi build guide. You are about to give your children the very best storytelling box there is not only because of the love you will put into making them this beautiful gift, but also because of the outstanding durability of the hardware offered here, as well as the unlimited potential offered by Telmi.
 

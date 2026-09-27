@@ -1,4 +1,4 @@
-<!-- Ce guide existe en deux langues. Toute modification apportée ici doit être répercutée dans DIY_EN.md. -->
+<!-- Ce guide existe en plusieurs langues. Toute modification apportée ici doit être répercutée dans DIY_EN.md et DIY_ZH.md. -->
 
 Bienvenue dans le guide de fabrication de la Super Telmi, vous vous apprêtez à offrir à vos enfants ce qui existe de mieux en matière de boîte à histoires, non seulement par l'amour que vous mettrez à leur concevoir ce beau cadeau, mais aussi par la très forte résilience qui vous est offerte ici sur le matériel, ainsi que le potentiel illimité offert par Telmi.
 

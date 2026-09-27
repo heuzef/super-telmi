@@ -46,7 +46,7 @@ La Super Telmi est accessible à tous : fabriquez-la vous-même ! Les plans et m
 
 | Dossier | Contenu |
 | --- | --- |
-| [`diy/`](./diy/) | Les guides de fabrication pas à pas, en [français](./diy/DIY_FR.md) et en [anglais](./diy/DIY_EN.md). |
+| [`diy/`](./diy/) | Les guides de fabrication pas à pas, en [français](./diy/DIY_FR.md), [anglais](./diy/DIY_EN.md) et [chinois](./diy/DIY_ZH.md). |
 | [`files/`](./files/) | Les fichiers 3D : sources CAO (`.f3d`, `.step`), modèles `.3mf`, et fichiers prêts à imprimer pour certaines imprimantes. |
 
 ## Contribuer
@@ -54,7 +54,7 @@ La Super Telmi est accessible à tous : fabriquez-la vous-même ! Les plans et m
 La Super Telmi a pour vocation d'être en constante amélioration grâce aux idées des parents et enfants.
 Il est possible d'apporter votre contribution en [rejoignant le Discord de la communauté Telmi](https://discord.gg/ZTA5FyERbg).
 
-> Les guides existent en deux langues : toute modification apportée à [`DIY_FR.md`](./diy/DIY_FR.md) doit être répercutée dans [`DIY_EN.md`](./diy/DIY_EN.md), et inversement.
+> Les guides existent en plusieurs langues : toute modification apportée à [`DIY_FR.md`](./diy/DIY_FR.md) doit être répercutée dans toutes les autres versions, et inversement.
 
 ## Licence
 
@@ -100,7 +100,7 @@ What you need for a home build: a Miyoo Mini Plus, soldering equipment, a 3D pri
 
 | Folder | Contents |
 | --- | --- |
-| [`diy/`](./diy/) | The step-by-step build guides, in [French](./diy/DIY_FR.md) and [English](./diy/DIY_EN.md). |
+| [`diy/`](./diy/) | The step-by-step build guides, in [French](./diy/DIY_FR.md), [English](./diy/DIY_EN.md) and [Chinese](./diy/DIY_ZH.md). |
 | [`files/`](./files/) | The 3D files: CAD sources (`.f3d`, `.step`), `.3mf` models, and ready-to-print files for some printers. |
 
 ## Contribute
@@ -108,10 +108,64 @@ What you need for a home build: a Miyoo Mini Plus, soldering equipment, a 3D pri
 Super Telmi aims to be constantly improved thanks to the ideas of parents and children.
 You can contribute [by joining the Telmi community Discord](https://discord.gg/ZTA5FyERbg).
 
-> The guides exist in two languages: any change made to [`DIY_EN.md`](./diy/DIY_EN.md) must be mirrored in [`DIY_FR.md`](./diy/DIY_FR.md), and vice versa.
+> The guides exist in several languages: any change made to [`DIY_EN.md`](./diy/DIY_EN.md) must be mirrored in every other version, and vice versa.
 
 ## Licence
 
 This project is released under the **[CC BY-NC-SA 4.0](./LICENCE.md)** licence: sharing and modifications are free with attribution, but **commercial use is forbidden without prior permission**.
+
+</details>
+
+<details>
+<summary><h3>🇨🇳&nbsp; 中文</h3></summary>
+
+<br>
+
+# Super Telmi，为 Telmi 打造的超级机器
+
+## 什么是 Super Telmi？
+
+Super Telmi 是一款开源故事机，基于自由系统 [Telmi](https://telmi.fr)，旨在带给孩子们惊喜。
+
+它以 Miyoo 掌机为基础，这款掌机以简单、价格实惠和坚固耐用著称，非常适合维修和改装。
+
+一群充满热情的家长构想并测试了各种改进，只为给自己的孩子最好的。
+
+Super Telmi 汇集了这些创新，以及孩子们在实际使用中的反馈，带来愈发丰富的体验。
+
+🎬 [观看 Super Telmi 介绍视频](https://www.youtube.com/watch?v=lRGE3fMTku0)（法语）
+
+![Super Telmi 外壳预览](./diy/assets/super_telmi_case_3d.gif)
+
+## 它有哪些提升？
+
+* 🔊 **一只真正的 40 mm 扬声器**，取代音质令人失望的原装微型元件。
+* 🛡️ **柔性 TPU 打印外壳**，能够承受磕碰、跌落和闹脾气。
+* 🧲 **磁吸充电底座**，一个动作即可充电，无需插拔接头。
+* ✂️ **精简硬件**：Telmi 用不到的扳机键已被移除。
+
+## 如何获得？
+
+Super Telmi 人人可得：自己动手做吧！图纸和制作手册[可在此处获取](./diy/DIY_ZH.md)。
+
+自行制作需要准备：一台 Miyoo Mini Plus、焊接工具、一台 3D 打印机，以及指南中详细列出的若干元件。全部打印时间约为 **20 小时**（外壳约 9 小时，充电底座约 10 小时）。
+
+## 仓库内容
+
+| 目录 | 内容 |
+| --- | --- |
+| [`diy/`](./diy/) | 分步制作指南，提供[法语](./diy/DIY_FR.md)、[英语](./diy/DIY_EN.md)和[中文](./diy/DIY_ZH.md)版本。 |
+| [`files/`](./files/) | 3D 文件：CAD 源文件（`.f3d`、`.step`）、`.3mf` 模型，以及部分打印机的即打即用文件。 |
+
+## 参与贡献
+
+Super Telmi 立志依靠家长和孩子们的想法不断改进。
+欢迎[加入 Telmi 社区 Discord](https://discord.gg/ZTA5FyERbg) 参与贡献。
+
+> 本指南提供多个语言版本：对 [`DIY_ZH.md`](./diy/DIY_ZH.md) 所做的任何修改都必须同步到其他所有语言版本，反之亦然。
+
+## 许可协议
+
+本项目基于 **[CC BY-NC-SA 4.0](./LICENCE.md)** 许可协议发布：可自由分享和修改，但须署名，且**未经事先许可禁止商业使用**。
 
 </details>
