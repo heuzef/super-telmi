@@ -2,17 +2,20 @@
 
 ![Logo Super Telmi](./logo-super-telmi.svg)
 
-**🇫🇷 [Français](#français) · 🇬🇧 [English](#english)**
-
 [![Licence: CC BY-NC-SA 4.0](https://img.shields.io/badge/Licence-CC%20BY--NC--SA%204.0-lightgrey.svg)](./LICENCE.md)
+
+**Choisissez votre langue · Choose your language**
 
 </div>
 
 ---
 
-<a name="français"></a>
+<details open>
+<summary><b>&nbsp;🇫🇷&nbsp; Français</b></summary>
 
-# 🇫🇷 Super Telmi, la super machine pour Telmi
+<br>
+
+# Super Telmi, la super machine pour Telmi
 
 ## Qu’est-ce que la Super Telmi ?
 
@@ -59,11 +62,14 @@ Il est possible d'apporter votre contribution en [rejoignant le Discord de la co
 
 Ce projet est publié sous licence **[CC BY-NC-SA 4.0](./LICENCE.md)** : partage et modifications libres avec attribution, mais **usage commercial interdit sans autorisation préalable**.
 
----
+</details>
 
-<a name="english"></a>
+<details>
+<summary><b>&nbsp;🇬🇧&nbsp; English</b></summary>
 
-# 🇬🇧 Super Telmi, the super machine for Telmi
+<br>
+
+# Super Telmi, the super machine for Telmi
 
 ## What is Super Telmi?
 
@@ -81,14 +87,14 @@ Super Telmi combines these innovations with real-life feedback from children, fo
 
 ## What does it add?
 
-* 🔊 **A real 40mm speaker**, replacing the tiny original component and its disappointing sound quality.
+* 🔊 **A real 40 mm speaker**, replacing the tiny original component and its disappointing sound quality.
 * 🛡️ **A flexible TPU-printed shell**, which absorbs knocks, drops and temper tantrums.
 * 🧲 **A magnetic docking station**, to charge the device in a single gesture, with no connector to fiddle with.
 * ✂️ **Simplified hardware**: the triggers, useless for Telmi, are removed.
 
 ## How to get it?
 
-Super Telmi is accessible to everyone: do it yourself ! Plans and manuals [are available here](./diy/DIY_EN.md).
+Super Telmi is accessible to everyone: do it yourself! Plans and manuals [are available here](./diy/DIY_EN.md).
 
 What you need for a home build: a Miyoo Mini Plus, soldering equipment, a 3D printer and a few components detailed in the guide. Expect around **20 hours of printing** in total (~9h for the shell, ~10h for the docking station).
 
@@ -109,3 +115,5 @@ You can contribute [by joining the Telmi community Discord](https://discord.gg/Z
 ## Licence
 
 This project is released under the **[CC BY-NC-SA 4.0](./LICENCE.md)** licence: sharing and modifications are free with attribution, but **commercial use is forbidden without prior permission**.
+
+</details>
