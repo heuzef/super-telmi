@@ -9,12 +9,12 @@ Welcome to the Super Telmi build guide. You are about to give your children the 
 * [A Miyoo Mini Plus](https://wiki.telmi.fr/achats/miyoo_mini_plus)
 
 # Parts to buy
-* [40mm 8ohm 3W speaker](https://fr.aliexpress.com/item/1005002679785627.html)
+* [40 mm 8 ohm 3 W speaker](https://fr.aliexpress.com/item/1005002679785627.html)
 * [Electrical wire](https://fr.aliexpress.com/item/1005005450270866.html)
 * [M2 and M3 screws and nuts](https://fr.aliexpress.com/item/1005007159750547.html)
-* [250g spool of TPU filament](https://fr.aliexpress.com/item/1005007707597137.html)
+* [250 g spool of TPU filament](https://fr.aliexpress.com/item/1005007707597137.html)
 * [Cable with magnetic USB-C tip](https://fr.aliexpress.com/item/1005009401790316.html)
-* [4 round neodymium magnets, 10x3mm](https://fr.aliexpress.com/item/1005009749865836.html)
+* [4 round neodymium magnets, 10x3 mm](https://fr.aliexpress.com/item/1005009749865836.html)
 * [Cyanoacrylate glue](https://fr.aliexpress.com/item/1005008517608338.html)
 * [Cable ties](https://fr.aliexpress.com/item/1005009405351665.html)
 
@@ -68,11 +68,11 @@ Set all of this carefully aside.
 
 ## Preparing the speaker
 
-It is now time to remove the speaker, located at the bottom right. This little component offers very poor sound quality. It makes a simple pressure contact on the motherboard through its two legs, and that is exactly what we are going to reproduce with our 40mm speaker.
+It is now time to remove the speaker, located at the bottom right. This little component offers very poor sound quality. It makes a simple pressure contact on the motherboard through its two legs, and that is exactly what we are going to reproduce with our 40 mm speaker.
 
 ![](assets/miyoo_hp_01.png)
 
-Now that all the components are accessible, you can remove the back shell along with the triggers and the original speaker: they are of no use.
+Now that all the components are accessible, you can set aside the back shell, the triggers and the original speaker: they are of no use.
 
 ![](assets/miyoo_spares_01.png)
 
@@ -107,13 +107,18 @@ A good tip is to use masking tape to hold all the components in place before sta
 
 Everything in place? Position the back panel, hold it, then gently turn the machine over.
 You can reuse the original screws to tighten it all up. Tighten in a crosswise pattern.
+
+Finally, fit the speaker front panel.
+
+![](assets/miyoo_hp_06.png)
+
 Test everything! You should now have a Super Telmi ready to use.
 
-![](assets/nopreview.png)
+![](assets/super_telmi_01.png)
 
-Have fun customising the space on the back if you like, for example the child's first name, your contact details in case the device gets lost, etc.
+Have fun customising the space on the back if you like, for example the child's first name, your contact details in case the device gets lost, etc. You can edit the text directly in your favourite slicer thanks to the 3MF file.
 
-![](assets/nopreview.png)
+![](assets/super_telmi_label.png)
 
 ## Building the docking station
 
