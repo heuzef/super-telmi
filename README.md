@@ -2,7 +2,7 @@
 
 ![Logo Super Telmi](./logo-super-telmi.svg)
 
-[![Licence: CC BY-NC-SA 4.0](https://img.shields.io/badge/Licence-CC%20BY--NC--SA%204.0-lightgrey.svg)](./LICENCE.md)
+[![Licence: CC BY-NC-SA 4.0](https://img.shields.io/badge/Licence-CC%20BY--NC--SA%204.0-lightgrey.svg)](./LICENCE.md) [![Discord](https://img.shields.io/badge/Discord-Telmi-5865F2?logo=discord&logoColor=white)](https://discord.gg/ZTA5FyERbg)
 
 </div>
 
