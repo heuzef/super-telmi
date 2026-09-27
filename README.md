@@ -4,14 +4,12 @@
 
 [![Licence: CC BY-NC-SA 4.0](https://img.shields.io/badge/Licence-CC%20BY--NC--SA%204.0-lightgrey.svg)](./LICENCE.md)
 
-**Choisissez votre langue · Choose your language**
-
 </div>
 
 ---
 
 <details open>
-<summary><b>&nbsp;🇫🇷&nbsp; Français</b></summary>
+<summary><h3>🇫🇷&nbsp; Français</h3></summary>
 
 <br>
 
@@ -65,7 +63,7 @@ Ce projet est publié sous licence **[CC BY-NC-SA 4.0](./LICENCE.md)** : partage
 </details>
 
 <details>
-<summary><b>&nbsp;🇬🇧&nbsp; English</b></summary>
+<summary><h3>🇬🇧&nbsp; English</h3></summary>
 
 <br>
 
