@@ -46,7 +46,7 @@ La Super Telmi est accessible à tous : fabriquez-la vous-même ! Les plans et m
 
 | Dossier | Contenu |
 | --- | --- |
-| [`diy/`](./diy/) | Les guides de fabrication pas à pas, en [français](./diy/DIY_FR.md), [anglais](./diy/DIY_EN.md) et [chinois](./diy/DIY_ZH.md). |
+| [`diy/`](./diy/) | Les guides de fabrication pas à pas, en [français](./diy/DIY_FR.md), [anglais](./diy/DIY_EN.md), [espagnol](./diy/DIY_ES.md) et [chinois](./diy/DIY_ZH.md). |
 | [`files/`](./files/) | Les fichiers 3D : sources CAO (`.f3d`, `.step`), modèles `.3mf`, et fichiers prêts à imprimer pour certaines imprimantes. |
 
 ## Contribuer
@@ -100,7 +100,7 @@ What you need for a home build: a Miyoo Mini Plus, soldering equipment, a 3D pri
 
 | Folder | Contents |
 | --- | --- |
-| [`diy/`](./diy/) | The step-by-step build guides, in [French](./diy/DIY_FR.md), [English](./diy/DIY_EN.md) and [Chinese](./diy/DIY_ZH.md). |
+| [`diy/`](./diy/) | The step-by-step build guides, in [French](./diy/DIY_FR.md), [English](./diy/DIY_EN.md), [Spanish](./diy/DIY_ES.md) and [Chinese](./diy/DIY_ZH.md). |
 | [`files/`](./files/) | The 3D files: CAD sources (`.f3d`, `.step`), `.3mf` models, and ready-to-print files for some printers. |
 
 ## Contribute
@@ -113,6 +113,60 @@ You can contribute [by joining the Telmi community Discord](https://discord.gg/Z
 ## Licence
 
 This project is released under the **[CC BY-NC-SA 4.0](./LICENCE.md)** licence: sharing and modifications are free with attribution, but **commercial use is forbidden without prior permission**.
+
+</details>
+
+<details>
+<summary><h3>🇪🇸&nbsp; Español</h3></summary>
+
+<br>
+
+# Super Telmi, la súper máquina para Telmi
+
+## ¿Qué es la Super Telmi?
+
+La Super Telmi es una caja de cuentos de código abierto concebida para maravillar a los niños, basada en el sistema libre [Telmi](https://telmi.fr).
+
+Se apoya en la consola Miyoo, reconocida por su simplicidad, su precio asequible y su robustez, ideal para las reparaciones y las mejoras.
+
+Unos padres apasionados han imaginado y probado mejoras para ofrecer lo mejor a sus hijos.
+
+La Super Telmi reúne estas innovaciones y los comentarios concretos de los niños, para una experiencia cada vez más enriquecedora.
+
+🎬 [Ver el vídeo de presentación de la Super Telmi](https://www.youtube.com/watch?v=lRGE3fMTku0) (en francés)
+
+![Vista previa de la carcasa de la Super Telmi](./diy/assets/super_telmi_case_3d.gif)
+
+## ¿Qué aporta de más?
+
+* 🔊 **Un altavoz de verdad de 40 mm**, en lugar del minúsculo componente original de calidad de sonido decepcionante.
+* 🛡️ **Una carcasa impresa en TPU flexible**, que aguanta los golpes, las caídas y las rabietas.
+* 🧲 **Una base de carga magnética**, para recargar el aparato con un simple gesto, sin manipular ningún conector.
+* ✂️ **Una simplificación del material**: los gatillos, inútiles para Telmi, se eliminan.
+
+## ¿Cómo conseguirla?
+
+La Super Telmi está al alcance de todos: ¡fabrícala tú mismo! Los planos y manuales de fabricación [están disponibles aquí](./diy/DIY_ES.md).
+
+Lo que hay que prever para una fabricación casera: una Miyoo Mini Plus, material de soldadura, una impresora 3D y algunos componentes detallados en la guía. Cuenta con unas **20 horas de impresión** en total (≈ 9 h para la carcasa, ≈ 10 h para la base de carga).
+
+## Contenido del repositorio
+
+| Carpeta | Contenido |
+| --- | --- |
+| [`diy/`](./diy/) | Las guías de fabricación paso a paso, en [francés](./diy/DIY_FR.md), [inglés](./diy/DIY_EN.md), [español](./diy/DIY_ES.md) y [chino](./diy/DIY_ZH.md). |
+| [`files/`](./files/) | Los archivos 3D: fuentes CAD (`.f3d`, `.step`), modelos `.3mf` y archivos listos para imprimir para algunas impresoras. |
+
+## Contribuir
+
+La Super Telmi tiene la vocación de mejorar constantemente gracias a las ideas de los padres y de los niños.
+Puedes aportar tu contribución [uniéndote al Discord de la comunidad Telmi](https://discord.gg/ZTA5FyERbg).
+
+> Las guías existen en varios idiomas: cualquier modificación realizada en [`DIY_ES.md`](./diy/DIY_ES.md) debe replicarse en todas las demás versiones, y a la inversa.
+
+## Licencia
+
+Este proyecto se publica bajo licencia **[CC BY-NC-SA 4.0](./LICENCE.md)**: compartir y modificar libremente con atribución, pero **uso comercial prohibido sin autorización previa**.
 
 </details>
 
@@ -154,7 +208,7 @@ Super Telmi 人人可得：自己动手做吧！图纸和制作手册[可在此�
 
 | 目录 | 内容 |
 | --- | --- |
-| [`diy/`](./diy/) | 分步制作指南，提供[法语](./diy/DIY_FR.md)、[英语](./diy/DIY_EN.md)和[中文](./diy/DIY_ZH.md)版本。 |
+| [`diy/`](./diy/) | 分步制作指南，提供[法语](./diy/DIY_FR.md)、[英语](./diy/DIY_EN.md)、[西班牙语](./diy/DIY_ES.md)和[中文](./diy/DIY_ZH.md)版本。 |
 | [`files/`](./files/) | 3D 文件：CAD 源文件（`.f3d`、`.step`）、`.3mf` 模型，以及部分打印机的即打即用文件。 |
 
 ## 参与贡献
