@@ -20,7 +20,7 @@ Welcome to the Super Telmi build guide. You are about to give your children the 
 
 # Build
 
-Feel free to come and meet the community on Discord before you start building!
+Feel free to come and meet the community on [Discord](https://discord.gg/ZTA5FyERbg) before you start building!
 
 Your feedback is invaluable in helping this project improve continuously.
 

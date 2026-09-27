@@ -20,7 +20,7 @@ Bienvenue dans le guide de fabrication de la Super Telmi, vous vous apprêtez à
 
 # Fabrication
 
-N'hésitez pas à rencontrer la communauté sur Discord avant de vous lancer dans la fabrication !
+N'hésitez pas à rencontrer la communauté sur [Discord](https://discord.gg/ZTA5FyERbg) avant de vous lancer dans la fabrication !
 
 Vos retours d'expérience sont précieux pour permettre l'amélioration continue de ce projet.
 
