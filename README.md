@@ -2,7 +2,7 @@
 
 ![Logo Super Telmi](./logo-super-telmi.svg)
 
-[![Licence: CC BY-NC-SA 4.0](https://img.shields.io/badge/Licence-CC%20BY--NC--SA%204.0-lightgrey.svg)](./LICENCE.md) [![Discord](https://img.shields.io/badge/Discord-Telmi-5865F2?logo=discord&logoColor=white)](https://discord.gg/ZTA5FyERbg)
+[![Licence: CC BY-NC-SA 4.0](https://img.shields.io/badge/Licence-CC%20BY--NC--SA%204.0-lightgrey.svg)](./LICENSE.md) [![Discord](https://img.shields.io/badge/Discord-Telmi-5865F2?logo=discord&logoColor=white)](https://discord.gg/ZTA5FyERbg)
 
 </div>
 
@@ -58,7 +58,7 @@ Il est possible d'apporter votre contribution en [rejoignant le Discord de la co
 
 ## Licence
 
-Ce projet est publié sous licence **[CC BY-NC-SA 4.0](./LICENCE.md)** : partage et modifications libres avec attribution, mais **usage commercial interdit sans autorisation préalable**.
+Ce projet est publié sous licence **[CC BY-NC-SA 4.0](./LICENSE.md)** : partage et modifications libres avec attribution, mais **usage commercial interdit sans autorisation préalable**.
 
 </details>
 
@@ -112,7 +112,7 @@ You can contribute [by joining the Telmi community Discord](https://discord.gg/Z
 
 ## Licence
 
-This project is released under the **[CC BY-NC-SA 4.0](./LICENCE.md)** licence: sharing and modifications are free with attribution, but **commercial use is forbidden without prior permission**.
+This project is released under the **[CC BY-NC-SA 4.0](./LICENSE.md)** licence: sharing and modifications are free with attribution, but **commercial use is forbidden without prior permission**.
 
 </details>
 
@@ -166,7 +166,7 @@ Puedes aportar tu contribución [uniéndote al Discord de la comunidad Telmi](ht
 
 ## Licencia
 
-Este proyecto se publica bajo licencia **[CC BY-NC-SA 4.0](./LICENCE.md)**: compartir y modificar libremente con atribución, pero **uso comercial prohibido sin autorización previa**.
+Este proyecto se publica bajo licencia **[CC BY-NC-SA 4.0](./LICENSE.md)**: compartir y modificar libremente con atribución, pero **uso comercial prohibido sin autorización previa**.
 
 </details>
 
@@ -220,6 +220,6 @@ Super Telmi 立志依靠家长和孩子们的想法不断改进。
 
 ## 许可协议
 
-本项目基于 **[CC BY-NC-SA 4.0](./LICENCE.md)** 许可协议发布：可自由分享和修改，但须署名，且**未经事先许可禁止商业使用**。
+本项目基于 **[CC BY-NC-SA 4.0](./LICENSE.md)** 许可协议发布：可自由分享和修改，但须署名，且**未经事先许可禁止商业使用**。
 
 </details>
